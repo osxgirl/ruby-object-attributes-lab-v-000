@@ -13,4 +13,4 @@ def name=(dogs_name)
   def breed
     @breed
   end
-end
+
