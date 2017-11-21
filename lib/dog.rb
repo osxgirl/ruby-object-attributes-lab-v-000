@@ -5,6 +5,7 @@ def name=(dogs_name)
   def name
     @name
   end
+
   def breed=(breed)
     @breed = breed
   end
