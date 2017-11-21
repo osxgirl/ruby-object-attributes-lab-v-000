@@ -1,4 +1,6 @@
-def name=(dogs_name)
+class Dog
+
+  def name=(dogs_name)
     @name = dogs_name
   end
 
@@ -13,3 +15,5 @@ def name=(dogs_name)
   def breed
     @breed
   end
+  
+end
